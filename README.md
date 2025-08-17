@@ -1,3 +1,16 @@
+Live Application
+You can view the live demo of the WeatherPro app here:
+
+Live Demo: https://weather-app432432.netlify.app/
+
+
+<!-- Dito natin ilalagay ang lahat ng screenshots -->
+![Products Page](https://github.com/aglucazgeorgeann-ship-it/weather-app/blob/master/new-york.jpg?raw=true)
+![Product Detail Page](https://github.com/aglucazgeorgeann-ship-it/weather-app/blob/master/manila.jpg?raw=true)
+![Admin Panel](https://github.com/aglucazgeorgeann-ship-it/weather-app/blob/master/tokyo.jpg?raw=true)
+![Admin Panel](https://github.com/aglucazgeorgeann-ship-it/weather-app/blob/master/london.jpg?raw=true)
+
+
 WeatherPro - World-Class Weather App
 Introduction
 The WeatherPro is a modern and visually stunning web application designed to provide quick and engaging weather information. It focuses on delivering a user-friendly and aesthetic experience, featuring an elegant glassmorphism UI and dynamic, animated backgrounds.
@@ -32,15 +45,7 @@ JavaScript (Vanilla JS): Powers the app's interactivity, handles user input, sim
 
 Google Fonts (Inter): Ensures a modern and highly readable typography throughout the application.
 
-Live Application
-You can view the live demo of the WeatherPro app here:
 
-Live Demo: https://weather-app432432.netlify.app/
-
-Screenshots
-Here are some visual previews of the application. Please replace these placeholders with actual screenshots or a GIF of your running WeatherPro app for a better presentation!
-
-Main Dashboard:
 
 Search Functionality:
 
